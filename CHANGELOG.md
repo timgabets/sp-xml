@@ -6,7 +6,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [0.1.1] - 2020-06-01
 ### Added
-- Library code imported from original [Lakgves](https://github.com/timgabets/lakgves) repo.
+- Library code imported from original [Lakgves repo](https://github.com/timgabets/lakgves).
 
 ## [0.1.0] - 2020-06-01
 ### Added
