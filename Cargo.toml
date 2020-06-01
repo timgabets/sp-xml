@@ -1,0 +1,15 @@
+[package]
+name = "sp-xml"
+description = "Library for IBM Safer Payments® XML messages serialization/deserialization"
+version = "0.1.0"
+authors = ["Tim Gabets <tim@gabets.ru>"]
+edition = "2018"
+readme = "README.md"
+categories = ["development-tools"]
+license = "LGPL-3.0"
+keywords = ["safer", "payments", "processing"]
+repository = "https://github.com/timgabets/sp-xml"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
