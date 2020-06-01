@@ -9,7 +9,7 @@ Rust community library for serializaing/deserializing IBM Safer Payments® XML m
 sp-xml = "0.1"
 ```
 
-```Rust
+```rust
 use sp_xml::{SPRequest, SPResponse};
 
 let s = r#"
@@ -41,7 +41,7 @@ let msg : String = req.serialize().unwrap();
 s.write_all(&msg.as_bytes()).await?;
 ```
 
-```Rust
+```rust
 let s = r##"
     <IRIS Version="1" Message="ModelResponse" IrisInstance="INSTANCE_1_(DS-PR-" MessageTypeId="60" SystemTime="2020-05-18 23:39:19" UniqueRecordId="1882261" MessageId="0af87c75503b4401" Merging="0" InstanceStatus="Ok" Latency="1.15" ErrorCode="0"></IRIS>
     "##;
