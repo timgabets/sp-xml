@@ -1,6 +1,6 @@
 [package]
 name = "sp-xml"
-description = "Library for IBM Safer Payments® XML messages serialization/deserialization"
+description = "A library for IBM Safer Payments® XML messages serialization/deserialization"
 version = "0.1.1"
 authors = ["Tim Gabets <tim@gabets.ru>"]
 edition = "2018"
