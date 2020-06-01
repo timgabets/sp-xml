@@ -56,7 +56,8 @@ println!("{:?}", resp.message_id);
 // Serializing Response
 let serialized = res.serialize().unwrap();
 println!("{:?}", serialized);
-// Sending it back in HTTP payload
+
+// Sending serialized response in HTTP payload
 Ok(HttpResponse::Ok()
     .content_type("text/xml")
     .body(serialized))
