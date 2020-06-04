@@ -1,12 +1,12 @@
 [package]
 name = "sp-xml"
 description = "A library for IBM Safer Payments® XML messages serialization/deserialization"
-version = "0.1.5"
+version = "0.1.6"
 authors = ["Tim Gabets <tim@gabets.ru>"]
 edition = "2018"
 readme = "README.md"
 categories = ["development-tools"]
-license = "GPL-3.0"
+license = "MIT"
 keywords = ["payments", "processing", "xml"]
 repository = "https://github.com/timgabets/sp-xml"
 
