@@ -1,5 +1,5 @@
 ## SP XML
-[![License: MIT](https://img.shields.io/crates/l/sp-xml)]
+![License: MIT](https://img.shields.io/crates/l/sp-xml)
 [![Build Status](https://travis-ci.org/timgabets/sp-xml.svg?branch=master)](https://travis-ci.org/timgabets/sp-xml)
 [![Crates.io](https://img.shields.io/crates/v/sp_xml.svg)](https://crates.io/crates/sp-xml)
 
